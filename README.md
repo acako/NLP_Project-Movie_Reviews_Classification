@@ -2,7 +2,7 @@
 In this project we use the movie dataset from Stanford University. A subset of 7000 rows was chosen for the purpose of this assignment to reduce runtime. In the final milestone we used the entire dataset which contains 25,000 rows. 
 
 ### Milestones:
-The project consists of 4 Milestones, in which we go through the machine learning lifecycles. 
+The project consists of 4 milestones, in which we go through the machine learning lifecycles. 
 
 PROJECT MILESTONE 1:  Problem, Dataset, Exploratory Data Analysis
 
